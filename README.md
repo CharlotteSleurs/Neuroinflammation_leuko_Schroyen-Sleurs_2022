@@ -1,8 +1,8 @@
 ### Neuroinflammation_leuko_Schroyen-Sleurs_2022
 
 #### Neuroinflammation as potential precursor of leukoencephalopathy in early-stage breast cancer patients: A cross-sectional PET-MRI study. 
-Schroyen, G.*, Sleurs, C.*, Bartsoen, E., Smeets, D., van Weehaeghe, D., Van Laere, K., Smeets, A., Deprez, S., & Sunaert, S. (2022).
-* contributed equally
+Schroyen, G.', Sleurs, C.', Bartsoen, E., Smeets, D., van Weehaeghe, D., Van Laere, K., Smeets, A., Deprez, S., & Sunaert, S. (2022).
+' contributed equally
 
 This repo contains the bash script that was used for PET-MRI preprocessing, to analyse [18F]DPA-714 PET tracer uptake in white matter lesions (FLAIR MR). 
 In this script delineated white matter lesions, FLAIRS, T1s, and PET scans are co-registered. PET scans are smoothed with 8mm gaussian. 
